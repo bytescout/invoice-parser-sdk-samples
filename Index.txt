@@ -3,11 +3,11 @@
 \C#
 \VB.NET
 \VBScript and VB6
-\C#\General Example
-\C#\Parse Folder To CSV
-\C#\Parse with OCR
-\VB.NET\General Example
-\VB.NET\Parse Folder To CSV
+\C#\Parse Folder with invoices To CSV
+\C#\Parse invoice with OCR
+\C#\Parse simple invoice
+\VB.NET\Parse Folder with invoices To CSV
 \VB.NET\Parse with OCR
-\VBScript and VB6\General Example
-\VBScript and VB6\Parse with OCR
+\VB.NET\Read simple invoice
+\VBScript and VB6\Parse invoice with OCR
+\VBScript and VB6\Read invoice data
