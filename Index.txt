@@ -3,11 +3,11 @@
 \C#
 \VB.NET
 \VBScript and VB6
-\C#\Parse Folder with invoices To CSV
-\C#\Parse invoice with OCR
-\C#\Parse simple invoice
-\VB.NET\Parse Folder with invoices To CSV
-\VB.NET\Parse with OCR
-\VB.NET\Read simple invoice
-\VBScript and VB6\Parse invoice with OCR
-\VBScript and VB6\Read invoice data
+\C#\Parse Folder With Invoices To CSV
+\C#\Parse Invoice With OCR
+\C#\Parse Simple Invoice
+\VB.NET\Parse Folder With Invoices To CSV
+\VB.NET\Parse With OCR
+\VB.NET\Read Simple Invoice
+\VBScript and VB6\Parse Invoice With OCR
+\VBScript and VB6\Read Invoice Data
